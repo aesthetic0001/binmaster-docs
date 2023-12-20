@@ -13,3 +13,4 @@ For additional support, please check out our [gitbook](https://binmasterdocs.git
 ## slayer macro:
 - config.json: [docs/slayer/config.md](docs/slayer/config.md)
 - websocket api: [docs/slayer/websocket.md](docs/slayer/websocket.md)
+- path scripting: [docs/slayer/path.md](docs/slayer/websocket.md)
