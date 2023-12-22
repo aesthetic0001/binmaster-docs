@@ -1,4 +1,4 @@
-_Last updated Dec. 19th 2023_
+_Last updated Dec. 21th 2023_
 
 ## Specifications for the Slayer Macro's WebSocket API
 
@@ -24,7 +24,7 @@ _Last updated Dec. 19th 2023_
   - data: `name` (string)
   - sets the username of the client. this is sent AFTER the auth sequence is complete.
 - type: `set_slayer`
-  - data: `slayer` (string)
+  - data: {`slayer` (string), `slayerTier` (string)}
   - sets the slayer type of the client. this is sent AFTER the auth sequence is complete.
 
 
