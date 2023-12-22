@@ -12,6 +12,8 @@ _Last updated Dec. 21th 2023_
 - type: `carrier_name`
   - data: `name` (string)
   - sent when the auth sequence is complete. provides the name of the carrier.
+- type `auth_success`
+-   sent immediately after the auth sequence is complete
 - type: `error`
   - data: `error` (string)
   - sent when an error occurs. provides the error message.
